@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Patient review sentimental analysis**
 
-- 🌱 I’m currently learning **System Design , DSA and react.js**
+- 🌱 I’m currently learning **System Design , DSA , node.js, react.js**
 
 - 👯 I’m looking to collaborate on **Clinic appointment management system**
 
